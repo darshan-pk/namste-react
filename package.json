@@ -1,0 +1,26 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "this is the namste react",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshan-pk/namste-react.git"
+  },
+  "author": "darshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshan-pk/namste-react/issues"
+  },
+  "homepage": "https://github.com/darshan-pk/namste-react#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
